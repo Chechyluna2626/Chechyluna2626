@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning ...
 - me gusta loi que stoy haciendo..!!
+- Seminario de programacion django girls 2023
 - 
